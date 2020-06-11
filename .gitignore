@@ -1,3 +1,4 @@
 /report.xml 
 /.phpstorm.meta.php 
 /vendor 
+/.phpunit.result.cache
