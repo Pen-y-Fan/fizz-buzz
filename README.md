@@ -2,6 +2,10 @@
 
 Project to implement FizzBuzz, while practicing TDD and experimenting with tooling.
 
+> Write a program that returns an array of numbers from 1 to 100. But for multiples of three return “Fizz” instead of
+> the number and for the multiples of five return “Buzz”. For numbers which are multiples of both three and five return
+> “FizzBuzz”.
+
 ## Installation
 
 The project uses:
