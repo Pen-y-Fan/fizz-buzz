@@ -55,9 +55,9 @@ The project uses composer to install:
 ## Folders
 
 - `src` 
-    - Contains the **FizzBuzz** Class which is empty.
+    - Contains the **FizzBuzz** Class which boiler plate, ready for a solution.
 - `tests` 
-    - **FizzBuzzTest** Class which is ready to start testing **FizzBuzz**
+    - **FizzBuzzTest** Class which has one failing test for **FizzBuzz**, ready to implement a solution.
 
 ## Testing
 
