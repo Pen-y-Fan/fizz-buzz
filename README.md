@@ -1,6 +1,6 @@
-# FizzBuzz (Complete)
+# FizzBuzz (With Tests)
 
-Project to implement FizzBuzz, while practicing TDD and experimenting with tooling. This is the `complete` branch.
+Project to implement FizzBuzz, while practicing TDD and experimenting with tooling. This is the `with-tests` branch.
 
 ## Installation
 
@@ -53,7 +53,7 @@ The project uses composer to install:
 - `src` 
     - Contains the **FizzBuzz** Class which is empty.
 - `tests` 
-    - **FizzBuzzTest** Class which is ready to start testing **FizzBuzz**
+    - **FizzBuzzTest** Class which is ready with starter tests **FizzBuzz**
 
 ## Testing
 
