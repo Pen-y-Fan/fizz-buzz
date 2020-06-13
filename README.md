@@ -1,6 +1,6 @@
-# FizzBuzz
+# FizzBuzz (Complete)
 
-Project to implement FizzBuzz, while practicing TDD and experimenting with tooling.
+Project to implement FizzBuzz, while practicing TDD and experimenting with tooling. This is the `complete` branch.
 
 ## Installation
 
